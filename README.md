@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.5+-brightgreen.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naufalzaki578/loan-credit-prediction-main/blob/main/loan_credit_project.ipynb)
+
 
 ## 📌 Deskripsi Proyek
 Proyek ini adalah implementasi **Machine Learning (*End-to-End*)** untuk mengotomatisasi keputusan persetujuan pengajuan kredit bank. Tujuannya adalah menekan angka **Kredit Macet (Non-Performing Loan / NPL)** dengan membedah 10 dimensi profil finansial nasabah secara simultan menggunakan algoritma **XGBoost**.
