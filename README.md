@@ -45,4 +45,4 @@ Penerapan *Machine Learning* dalam proses *Underwriting* perbankan membuktikan b
 * Meskipun kapabilitas analitik AI sangat tinggi, pengawasan dari Praktisi Data (*Data Scientist*) tetap diwajibkan untuk mencegah model bertindak diskriminatif akibat bias data dari masa lampau.
 
 ---
-**👨‍💻 Dibuat oleh:** Chairul Aulia
+**👨‍💻 
